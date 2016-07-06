@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "benjamin.vadant@erdf-grdf.fr"
+  },
+  "dependencies": {
+    "leaflet": "^0.7.5"
+  },
+  "description": "easily add non intrusive attribution control",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "src/super-attribution.js",
+  "name": "leaflet-superattribution",
+  "version": "0.1.0"
+}
